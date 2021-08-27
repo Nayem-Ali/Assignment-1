@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.COLORS{
+    color: orange;
+}
+
+.Gradient{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    border-radius: 30px;
+    padding: 10px;
+    font-weight: 400;
+    color: white;
+}
+.Flexibility{
+    display: flex;
+    padding-bottom: 70px;
+}
+
+.Sec1{
+    width: 80%;
+}
+
+.Sec2{
+    width: 55%;
+    padding-left: 120px;
+}
+
+.HF{
+    width: 40%;
+    padding-left: 105px;
+}
+
+.Adjust{
+    padding-top: 10%;
+}
+
+#Margin{
+    padding-top: 70px;
+}
+
+.BG1{
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+#COLORS2{
+    color:gray;
+}
+
+.BOX div{
+    width: 30%;
+    margin-left: 30px;
+    padding: 2%;
+    border-radius: 30px;
+    border: 0.5px;
+    box-shadow: 5px 10px 20px rgb(160, 156, 156);
+}
+
+.BOX {
+    display: flex;
+    padding: 5%;
+}
+
+.BOX div img{
+    width:100%;
+}
+
+.Intro{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.Bonus{
+   
+    display: flex;
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 8%;
+
+}
+
+.Bonus div{
+    margin-left: 15%;
+}
+
+.Bonus div p{
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 0%;
+}
+
+.Sec4{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:10%;
+}
