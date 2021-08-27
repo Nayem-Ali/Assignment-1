@@ -63,6 +63,10 @@ h1{
     box-shadow: 5px 10px 20px rgb(160, 156, 156);
 }
 
+.BOX div img{
+    border-radius: 5%;
+}
+
 .BOX {
     display: flex;
     padding: 5%;
